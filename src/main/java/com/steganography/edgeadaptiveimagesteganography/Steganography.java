@@ -16,6 +16,10 @@ import java.io.File;
 import java.io.IOException;
 import javax.imageio.ImageIO;
 
+/**
+ *
+ * @author Merv
+ */
 public class Steganography extends javax.swing.JFrame {
     
     // Variables declaration - do not modify                     
